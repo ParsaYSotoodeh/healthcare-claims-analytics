@@ -201,23 +201,14 @@ Healthcare Claims Dashboard
 # 📷 Dashboard Preview
 
 ### Executive Dashboard
-
 ![Executive Dashboard](Images/Executive-dashboard.png)
-
 ### Claim Type Analysis
-
 ![Claim Type Analysis](Images/Claim-type-analysis.png)
-
 ### CPT Analysis
-
 ![CPT Analysis](Images/CPT-analysis.png)
-
 ### Member Analysis
-
 ![Member Analysis](Images/Member-analysis.png)
-
 ### Paid Ratio Analysis
-
 ![Paid Ratio](Images/Paid-ratio.png)
 
 ---
@@ -227,8 +218,3 @@ Healthcare Claims Dashboard
 **Parsa Sotoodeh**
 
 If you found this project useful, feel free to ⭐ the repository.
-
-
-# Test
-
-![Dashboard](Images/Executive Dashboard.png)
