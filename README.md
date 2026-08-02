@@ -202,23 +202,23 @@ Healthcare Claims Dashboard
 
 ### Executive Dashboard
 
-![Executive Dashboard](Images/Executive Dashboard.png)
+![Executive Dashboard](Images/Executive-dashboard.png)
 
 ### Claim Type Analysis
 
-![Claim Type Analysis](Images/Claim Type Analysis.png)
+![Claim Type Analysis](Images/Claim-type-analysis.png)
 
 ### CPT Analysis
 
-![CPT Analysis](Images/CPT Analysis.png)
+![CPT Analysis](Images/CPT-analysis.png)
 
 ### Member Analysis
 
-![Member Analysis](Images/Member Analysis.png)
+![Member Analysis](Images/Member-analysis.png)
 
 ### Paid Ratio Analysis
 
-![Paid Ratio](Images/Paid Ratio.png)
+![Paid Ratio](Images/Paid-ratio.png)
 
 ---
 
